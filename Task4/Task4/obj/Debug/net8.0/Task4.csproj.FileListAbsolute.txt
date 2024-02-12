@@ -1,0 +1,4 @@
+C:\Users\Asus\Desktop\AllTasks\Task4\Task4\obj\Debug\net8.0\Task4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\AllTasks\Task4\Task4\obj\Debug\net8.0\Task4.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\AllTasks\Task4\Task4\obj\Debug\net8.0\Task4.AssemblyInfo.cs
+C:\Users\Asus\Desktop\AllTasks\Task4\Task4\obj\Debug\net8.0\Task4.csproj.CoreCompileInputs.cache
